@@ -19,7 +19,6 @@ This Arduino code implements an IoT-based patient monitor system. It uses variou
 
 ## Wiring Diagram
 
-
                          +-------------------+
                          |     Arduino       |
                          |    Board/Chip     |
